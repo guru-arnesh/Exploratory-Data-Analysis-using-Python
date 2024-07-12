@@ -1,1 +1,1 @@
-# Exploring-Data-with-Python
+In this mini project, I leveraged Python libraries like NumPy, Pandas, and Matplotlib to extract valuable insights from the dataset. Discover trends, patterns, and correlations through data analysis techniques, showcasing the versatility and efficiency of Python in handling and visualizing data.
